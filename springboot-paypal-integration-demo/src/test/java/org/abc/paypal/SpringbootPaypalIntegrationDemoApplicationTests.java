@@ -1,10 +1,10 @@
-package org.abc.batch;
+package org.abc.paypal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootBatchCsvToH2DbDemoApplicationTests {
+class SpringbootPaypalIntegrationDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
